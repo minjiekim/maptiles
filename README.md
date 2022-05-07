@@ -1,5 +1,5 @@
 # Maptiles
-The [webmap](https://minjiekim.github.io/maptiles/)
+[https://minjiekim.github.io/maptiles/](https://minjiekim.github.io/maptiles/)
 ## the Four Layers
 Basemap: this is just basic map with water areas colored blue, with park areas colored green
 ![basemap](/img/base.JPG)
